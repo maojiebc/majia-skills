@@ -36,6 +36,9 @@
     "yt-search-download":         { "category": "03-content-fetch",  "type": "github", "repo": "joeseesun/yt-search-download",          "path": ".",                                 "branch": "main", "stars": 107,   "version": null },
     "skill-publisher":            { "category": "02-writing",        "type": "github", "repo": "joeseesun/qiaomu-skill-publisher",      "path": ".",                                 "branch": "main", "stars": 24,    "version": null },
     "qiaomu-music-player-spotify":{ "category": "06-utilities",      "type": "github", "repo": "joeseesun/qiaomu-music-player-spotify", "path": ".",                                 "branch": "main", "stars": 21,    "version": "1.0.0" },
-    "bullet-viral-post":          { "category": "02-writing",        "type": "local",  "note": "来源：软苏 Grace (@Graceruansu) 推文，无独立仓库", "version": null }
+    "bullet-viral-post":          { "category": "02-writing",        "type": "local",  "note": "来源：软苏 Grace (@Graceruansu) 推文，无独立仓库", "version": null },
+    "magazine-web-ppt":           { "category": "01-visual-creation","type": "local",  "note": "归藏 (op7418) — 电子杂志风网页 PPT，上游 repo TBD", "version": null },
+    "wechat-article-extractor":   { "category": "03-content-fetch",  "type": "local",  "note": "微信公众号文章解析，上游 repo TBD", "version": null },
+    "release-skills":             { "category": "06-utilities",      "type": "local",  "note": "通用 release workflow，上游 repo TBD", "version": null }
   }
 }
