@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "updated": "2026-05-12",
+  "skills": {
+    "agent-reach":                { "type": "github", "repo": "Panniantong/Agent-Reach", "path": ".", "branch": "main", "stars": 19244 },
+    "baoyu-translate":            { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-translate", "branch": "main", "stars": 17825 },
+    "baoyu-compress-image":       { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-compress-image", "branch": "main", "stars": 17825 },
+    "baoyu-format-markdown":      { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-format-markdown", "branch": "main", "stars": 17825 },
+    "baoyu-markdown-to-html":     { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-markdown-to-html", "branch": "main", "stars": 17825 },
+    "baoyu-url-to-markdown":      { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-url-to-markdown", "branch": "main", "stars": 17825 },
+    "baoyu-diagram":              { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-diagram", "branch": "main", "stars": 17825 },
+    "baoyu-youtube-transcript":   { "type": "github", "repo": "JimLiu/baoyu-skills", "path": "skills/baoyu-youtube-transcript", "branch": "main", "stars": 17825 },
+    "defuddle":                   { "type": "npm", "package": "defuddle", "repo": "kepano/defuddle", "stars": 7521 },
+    "follow-builders":            { "type": "github", "repo": "zarazhangrui/follow-builders", "path": ".", "branch": "main", "stars": 4124 },
+    "anything-to-notebooklm":     { "type": "github", "repo": "joeseesun/qiaomu-anything-to-notebooklm", "path": ".", "branch": "main", "stars": 1611 },
+    "x-article-publisher":        { "type": "github", "repo": "wshuyi/x-article-publisher-skill", "path": ".", "branch": "main", "stars": 756 },
+    "knowledge-site-creator":     { "type": "github", "repo": "joeseesun/qiaomu-knowledge-site-creator", "path": ".", "branch": "main", "stars": 325 },
+    "qiaomu-design-advisor":      { "type": "github", "repo": "joeseesun/qiaomu-design-advisor", "path": ".", "branch": "main", "stars": 233 },
+    "yt-search-download":         { "type": "github", "repo": "joeseesun/yt-search-download", "path": ".", "branch": "main", "stars": 107 },
+    "skill-publisher":            { "type": "github", "repo": "joeseesun/qiaomu-skill-publisher", "path": ".", "branch": "main", "stars": 24 },
+    "qiaomu-music-player-spotify":{ "type": "github", "repo": "joeseesun/qiaomu-music-player-spotify", "path": ".", "branch": "main", "stars": 21 },
+    "bullet-viral-post":          { "type": "local", "note": "来源：软苏 Grace (@Graceruansu) 推文，无独立仓库" }
+  }
+}
