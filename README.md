@@ -6,6 +6,7 @@
 
 ## 🎯 一眼选 skill — 我想干啥用哪个？
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework: PRD/IA/FRR/AC-YAML. v4.9.2
 | 想做什么 | 进哪个目录 | 数量 |
 |---------|-----------|-----:|
 | 🎨 **生成图片/插画/封面/漫画/Slide/Infographic** | [`skills/01-visual-creation/`](skills/01-visual-creation/) | 11 |
